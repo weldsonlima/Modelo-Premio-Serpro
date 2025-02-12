@@ -1,0 +1,11 @@
+\babel@toc {brazilian}{}\relax 
+\contentsline {section}{Lista de Figuras}{ii}{section*.3}%
+\contentsline {section}{Lista de Tabelas}{iii}{section*.5}%
+\contentsline {section}{Section A}{iv}{section*.7}%
+\contentsline {section}{\numberline {1}Título do Pré-projeto de Pesquisa}{1}{section.1}%
+\contentsline {section}{\numberline {2}Tema do trabalho de conclusão de curso}{1}{section.2}%
+\contentsline {section}{\numberline {3}Problema}{1}{section.3}%
+\contentsline {section}{\numberline {4}Justificativa do Estudo}{2}{section.4}%
+\contentsline {section}{\numberline {5}Metodologia}{2}{section.5}%
+\contentsline {section}{\numberline {6}Objetivos e resultados Esperados}{2}{section.6}%
+\contentsline {section}{Refer\^encias}{4}{section*.9}%
