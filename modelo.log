@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.2.1)  12 FEB 2025 00:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.2.1)  17 FEB 2025 23:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -299,55 +299,15 @@ File: upzd.fd 2001/06/04 font definitions for U/pzd.
 LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/upsy.fd
 File: upsy.fd 2001/06/04 font definitions for U/psy.
-)) (/usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty
-\UL@box=\box98
-\UL@hyphenbox=\box99
-\UL@skip=\skip53
-\UL@hook=\toks21
-\UL@height=\dimen157
-\UL@pe=\count289
-\UL@pixel=\dimen158
-\ULC@box=\box100
-Package: ulem 2019/11/18
-\ULdepth=\dimen159
-) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
-Package: amssymb 2013/01/14 v3.01 AMS font symbols
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks22
-\symAMSa=\mathgroup4
-\symAMSb=\mathgroup5
-LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
-LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
-Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
-) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2020/01/02 v5.9 Page Geometry
- (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
-Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-)
-\Gm@cnth=\count290
-\Gm@cntv=\count291
-\c@Gm@tempcnt=\count292
-\Gm@bindingoffset=\dimen160
-\Gm@wd@mp=\dimen161
-\Gm@odd@mp=\dimen162
-\Gm@even@mp=\dimen163
-\Gm@layoutwidth=\dimen164
-\Gm@layoutheight=\dimen165
-\Gm@layouthoffset=\dimen166
-\Gm@layoutvoffset=\dimen167
-\Gm@dimlist=\toks23
-) (/usr/share/texlive/texmf-dist/tex/latex/nomencl/nomencl.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/nomencl/nomencl.sty
 Package: nomencl 2021/11/10 v5.6 Nomenclature package
  (/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
  (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks24
-\XKV@tempa@toks=\toks25
+\XKV@toks=\toks21
+\XKV@tempa@toks=\toks22
 )
-\XKV@depth=\count293
+\XKV@depth=\count289
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
@@ -365,27 +325,50 @@ Package: scrlogo 2023/07/07 v3.41 KOMA-Script package (logo)
 Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
 Already applied: [0000/00/00] Usage of raw or classic option list on input line 368.
 )
-\scr@dte@tocline@numberwidth=\skip54
-\scr@dte@tocline@numbox=\box101
+\scr@dte@tocline@numberwidth=\skip53
+\scr@dte@tocline@numbox=\box98
 )
 Package tocbasic Info: setting babel extension for `nlo' on input line 187.
 Package tocbasic Info: setting babel extension for `nls' on input line 188.
-\nomlabelwidth=\dimen168
-\nom@tempdim=\dimen169
-\nomitemsep=\skip55
+\nomlabelwidth=\dimen157
+\nom@tempdim=\dimen158
+\nomitemsep=\skip54
+) (/usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box99
+\UL@hyphenbox=\box100
+\UL@skip=\skip55
+\UL@hook=\toks23
+\UL@height=\dimen159
+\UL@pe=\count290
+\UL@pixel=\dimen160
+\ULC@box=\box101
+Package: ulem 2019/11/18
+\ULdepth=\dimen161
+) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks24
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
 ) (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
-\MT@toks=\toks26
+\MT@toks=\toks25
 \MT@tempbox=\box102
-\MT@count=\count294
+\MT@count=\count291
 LaTeX Info: Redefining \noprotrusionifhmode on input line 1059.
 LaTeX Info: Redefining \leftprotrusion on input line 1060.
-\MT@prot@toks=\toks27
+\MT@prot@toks=\toks26
 LaTeX Info: Redefining \rightprotrusion on input line 1078.
 LaTeX Info: Redefining \textls on input line 1368.
-\MT@outer@kern=\dimen170
+\MT@outer@kern=\dimen162
 LaTeX Info: Redefining \textmicrotypecontext on input line 1988.
-\MT@listname@count=\count295
+\MT@listname@count=\count292
  (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2023/03/13 v3.1a Definitions specific to pdftex (RS)
 LaTeX Info: Redefining \lsstyle on input line 902.
@@ -395,25 +378,59 @@ LaTeX Info: Redefining \lslig on input line 902.
 Package microtype Info: Loading configuration file microtype.cfg.
  (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
-)) (/usr/share/texlive/texmf-dist/tex/latex/abntex2/abntex2cite.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/zref/zref-totpages.sty
+Package: zref-totpages 2023-09-14 v2.35 Module totpages for zref (HO)
+ (/usr/share/texlive/texmf-dist/tex/latex/zref/zref-base.sty
+Package: zref-base 2023-09-14 v2.35 Module base for zref (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+Package zref Info: New property list: main on input line 767.
+Package zref Info: New property: default on input line 768.
+Package zref Info: New property: page on input line 769.
+) (/usr/share/texlive/texmf-dist/tex/latex/zref/zref-abspage.sty
+Package: zref-abspage 2023-09-14 v2.35 Module abspage for zref (HO)
+\c@abspage=\count293
+Package zref Info: New property: abspage on input line 67.
+) (/usr/share/texlive/texmf-dist/tex/latex/zref/zref-lastpage.sty
+Package: zref-lastpage 2023-09-14 v2.35 Module lastpage for zref (HO)
+Package zref Info: New property list: LastPage on input line 57.
+)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count294
+\Gm@cntv=\count295
+\c@Gm@tempcnt=\count296
+\Gm@bindingoffset=\dimen163
+\Gm@wd@mp=\dimen164
+\Gm@odd@mp=\dimen165
+\Gm@even@mp=\dimen166
+\Gm@layoutwidth=\dimen167
+\Gm@layoutheight=\dimen168
+\Gm@layouthoffset=\dimen169
+\Gm@layoutvoffset=\dimen170
+\Gm@dimlist=\toks27
+) (/usr/share/texlive/texmf-dist/tex/latex/abntex2/abntex2cite.sty
 Package: abntex2cite 2018/11/24 v-1.9.7 abnTeX2
  (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count296
-\calc@Bcount=\count297
+\calc@Acount=\count297
+\calc@Bcount=\count298
 \calc@Adimen=\dimen171
 \calc@Bdimen=\dimen172
 \calc@Askip=\skip57
 \calc@Bskip=\skip58
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count298
+\calc@Ccount=\count299
 \calc@Cskip=\skip59
 ) (/usr/share/texlive/texmf-dist/tex/latex/abntex2/abntex2abrev.sty)
 \minimumbiblabelwidth=\skip60
 \ABCIauxlen=\skip61
-\c@ABCIaux=\count299
-\c@ABCImax=\count300
+\c@ABCIaux=\count300
+\c@ABCImax=\count301
  (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
 Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
 ) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
@@ -448,36 +465,36 @@ LaTeX Warning: Unused global option(s):
 (./modelo.aux)
 \openout1 = `modelo.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count301
+\scratchcounter=\count302
 \scratchdimen=\dimen173
 \scratchbox=\box103
-\nofMPsegments=\count302
-\nofMParguments=\count303
+\nofMPsegments=\count303
+\nofMParguments=\count304
 \everyMPshowfont=\toks29
-\MPscratchCnt=\count304
+\MPscratchCnt=\count305
 \MPscratchDim=\dimen174
-\MPnumerator=\count305
-\makeMPintoPDFobject=\count306
+\MPnumerator=\count306
+\makeMPintoPDFobject=\count307
 \everyMPtoPDFconversion=\toks30
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -485,11 +502,31 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 158.
+Package hyperref Info: Link coloring OFF on input line 135.
  (./modelo.out) (./modelo.out)
 \@outlinefile=\write3
 \openout3 = `modelo.out'.
 
+LaTeX Info: Redefining \microtypecontext on input line 135.
+Package microtype Info: Applying patch `item' on input line 135.
+Package microtype Info: Applying patch `toc' on input line 135.
+Package microtype Info: Applying patch `eqnum' on input line 135.
+Package microtype Info: Applying patch `footnote' on input line 135.
+Package microtype Info: Applying patch `verbatim' on input line 135.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 135.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `fvs' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -525,26 +562,6 @@ Package hyperref Info: Link coloring OFF on input line 158.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 158.
-Package microtype Info: Applying patch `item' on input line 158.
-Package microtype Info: Applying patch `toc' on input line 158.
-Package microtype Info: Applying patch `eqnum' on input line 158.
-Package microtype Info: Applying patch `footnote' on input line 158.
-Package microtype Info: Applying patch `verbatim' on input line 158.
-Package microtype Info: Generating PDF output.
-Package microtype Info: Character protrusion enabled (level 2).
-Package microtype Info: Using default protrusion set `alltext'.
-Package microtype Info: Automatic font expansion enabled (level 2),
-(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
-Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 158.
-Package microtype Info: No adjustment of tracking.
-Package microtype Info: No adjustment of interword spacing.
-Package microtype Info: No adjustment of character kerning.
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `fvs' (encoding: T1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -580,226 +597,128 @@ Package microtype Info: Loading generic protrusion settings for font family
 <Imagens/capa-ps.jpg, id=44, 880.28876pt x 556.0775pt>
 File: Imagens/capa-ps.jpg Graphic file (type jpg)
 <use Imagens/capa-ps.jpg>
-Package pdftex.def Info: Imagens/capa-ps.jpg  used on input line 165.
+Package pdftex.def Info: Imagens/capa-ps.jpg  used on input line 142.
 (pdftex.def)             Requested size: 880.2866pt x 556.07614pt.
 LaTeX Font Info:    Font shape `T1/fvs/m/n' will be
-(Font)              scaled to size 18.66588pt on input line 170.
-[1
-
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} <./Imagens/capa-ps.jpg>]
-LaTeX Font Info:    Font shape `T1/fvs/m/n' will be
-(Font)              scaled to size 12.9599pt on input line 180.
-LaTeX Font Info:    Font shape `T1/fvs/b/n' will be
-(Font)              scaled to size 12.9599pt on input line 180.
- (./modelo.toc
-LaTeX Font Info:    Font shape `T1/fvs/b/n' will be
-(Font)              scaled to size 9.85492pt on input line 2.
-)
-\tf@toc=\write4
-\openout4 = `modelo.toc'.
-
-<Imagens/logo-serpro.jpg, id=61, 5241.5825pt x 1661.20625pt>
-File: Imagens/logo-serpro.jpg Graphic file (type jpg)
-<use Imagens/logo-serpro.jpg>
-Package pdftex.def Info: Imagens/logo-serpro.jpg  used on input line 181.
-(pdftex.def)             Requested size: 5241.5698pt x 1661.20221pt.
-LaTeX Font Info:    Font shape `T1/fvs/m/n' will be
-(Font)              scaled to size 10.79993pt on input line 181.
-LaTeX Font Info:    Font shape `T1/fvs/b/n' will be
-(Font)              scaled to size 10.79993pt on input line 181.
-LaTeX Font Info:    Trying to load font information for TS1+fvs on input line 181.
- (/usr/share/texlive/texmf-dist/tex/latex/bera/ts1fvs.fd
-File: ts1fvs.fd 2004/09/07 scalable font definitions for TS1/fvs.
-)
-LaTeX Font Info:    Font shape `TS1/fvs/b/n' will be
-(Font)              scaled to size 10.79993pt on input line 181.
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `fvs' (encoding: TS1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 27.19061pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.19061pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-15.19061pt}.
-
-LaTeX Font Info:    Font shape `T1/fvs/m/n' will be
-(Font)              scaled to size 8.09995pt on input line 181.
-LaTeX Font Info:    Font shape `T1/fvs/b/n' will be
-(Font)              scaled to size 8.09995pt on input line 181.
-[1
-
-
- <./Imagens/logo-serpro.jpg>] (./modelo.lof (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+(Font)              scaled to size 18.66588pt on input line 147.
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 147.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 147.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-))
-\tf@lof=\write5
-\openout5 = `modelo.lof'.
+)
+LaTeX Font Info:    Font shape `T1/fvs/m/n' will be
+(Font)              scaled to size 12.9599pt on input line 147.
+LaTeX Font Info:    Trying to load font information for TS1+fvs on input line 152.
+ (/usr/share/texlive/texmf-dist/tex/latex/bera/ts1fvs.fd
+File: ts1fvs.fd 2004/09/07 scalable font definitions for TS1/fvs.
+)
+LaTeX Font Info:    Font shape `TS1/fvs/m/n' will be
+(Font)              scaled to size 12.9599pt on input line 152.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `fvs' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [1
 
-File: Imagens/logo-serpro.jpg Graphic file (type jpg)
-<use Imagens/logo-serpro.jpg>
-Package pdftex.def Info: Imagens/logo-serpro.jpg  used on input line 184.
-(pdftex.def)             Requested size: 5241.5698pt x 1661.20221pt.
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} <./Imagens/capa-ps.jpg>]
+LaTeX Font Info:    Font shape `T1/fvs/b/n' will be
+(Font)              scaled to size 12.9599pt on input line 159.
+LaTeX Font Info:    Font shape `T1/fvs/m/n' will be
+(Font)              scaled to size 7.19995pt on input line 161.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.173 \clearpage
+                 [1
 
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 27.19061pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.19061pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-15.19061pt}.
+]
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
+
+ []
 
 [2
 
-] (./modelo.lot)
-\tf@lot=\write6
-\openout6 = `modelo.lot'.
+] (./modelo.lof)
+\tf@lof=\write4
+\openout4 = `modelo.lof'.
 
-File: Imagens/logo-serpro.jpg Graphic file (type jpg)
-<use Imagens/logo-serpro.jpg>
-Package pdftex.def Info: Imagens/logo-serpro.jpg  used on input line 187.
-(pdftex.def)             Requested size: 5241.5698pt x 1661.20221pt.
+ [3
 
+] (./modelo.toc
+LaTeX Font Info:    Font shape `T1/fvs/b/n' will be
+(Font)              scaled to size 9.85492pt on input line 2.
+)
+\tf@toc=\write5
+\openout5 = `modelo.toc'.
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 27.19061pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.19061pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-15.19061pt}.
-
-[3
+ [4
 
 ]
-File: Imagens/logo-serpro.jpg Graphic file (type jpg)
-<use Imagens/logo-serpro.jpg>
-Package pdftex.def Info: Imagens/logo-serpro.jpg  used on input line 191.
-(pdftex.def)             Requested size: 5241.5698pt x 1661.20221pt.
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
 
+ []
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 27.19061pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.19061pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-15.19061pt}.
-
-[4
-
-]
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 232.
- (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+<Imagens/h_l_mencken.jpg, id=85, 602.25pt x 316.18124pt>
+File: Imagens/h_l_mencken.jpg Graphic file (type jpg)
+<use Imagens/h_l_mencken.jpg>
+Package pdftex.def Info: Imagens/h_l_mencken.jpg  used on input line 204.
+(pdftex.def)             Requested size: 602.24852pt x 316.18047pt.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 215.
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
+ [5
 
-Underfull \hbox (badness 10000) in paragraph at lines 249--250
+ <./Imagens/h_l_mencken.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
 
  []
 
-File: Imagens/logo-serpro.jpg Graphic file (type jpg)
-<use Imagens/logo-serpro.jpg>
-Package pdftex.def Info: Imagens/logo-serpro.jpg  used on input line 262.
-(pdftex.def)             Requested size: 5241.5698pt x 1661.20221pt.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 27.19061pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.19061pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-15.19061pt}.
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.262 
-       [1
-
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
 LaTeX Font Info:    Font shape `TS1/fvs/m/n' will be
-(Font)              scaled to size 9.85492pt on input line 269.
-File: Imagens/logo-serpro.jpg Graphic file (type jpg)
-<use Imagens/logo-serpro.jpg>
-Package pdftex.def Info: Imagens/logo-serpro.jpg  used on input line 329.
-(pdftex.def)             Requested size: 5241.5698pt x 1661.20221pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 27.19061pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.19061pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-15.19061pt}.
-
-[2]
-<Imagens/h_l_mencken.jpg, id=117, 602.25pt x 316.18124pt>
-File: Imagens/h_l_mencken.jpg Graphic file (type jpg)
-<use Imagens/h_l_mencken.jpg>
-Package pdftex.def Info: Imagens/h_l_mencken.jpg  used on input line 335.
-(pdftex.def)             Requested size: 602.24852pt x 316.18047pt.
-File: Imagens/logo-serpro.jpg Graphic file (type jpg)
-<use Imagens/logo-serpro.jpg>
-Package pdftex.def Info: Imagens/logo-serpro.jpg  used on input line 341.
-(pdftex.def)             Requested size: 5241.5698pt x 1661.20221pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 27.19061pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.19061pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-15.19061pt}.
-
-[3 <./Imagens/h_l_mencken.jpg>] (./modelo.bbl
+(Font)              scaled to size 9.85492pt on input line 250.
+[6{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}] [7] [8] (./modelo.bbl
 LaTeX Font Info:    Font shape `T1/fvs/m/it' will be
 (Font)              scaled to size 9.85492pt on input line 10.
-)
-File: Imagens/logo-serpro.jpg Graphic file (type jpg)
-<use Imagens/logo-serpro.jpg>
-Package pdftex.def Info: Imagens/logo-serpro.jpg  used on input line 378.
-(pdftex.def)             Requested size: 5241.5698pt x 1661.20221pt.
+) [9
 
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 27.19061pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.19061pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-15.19061pt}.
-
-[4] (./modelo.aux)
+] (./modelo.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `modelo.out' has not changed.
-(rerunfilecheck)             Checksum: 1BC56376B65A20C257D22F3751AB6A85;1492.
+(rerunfilecheck)             Checksum: 917BB8AF59725A4F33B88033D42DB4FD;1289.
  ) 
 Here is how much of TeX's memory you used:
- 16294 strings out of 474222
- 267322 string characters out of 5748734
- 1948975 words of memory out of 5000000
- 38063 multiletter control sequences out of 15000+600000
- 618203 words of font info for 170 fonts, out of 8000000 for 9000
+ 16524 strings out of 474222
+ 272447 string characters out of 5748734
+ 1947975 words of memory out of 5000000
+ 38292 multiletter control sequences out of 15000+600000
+ 613264 words of font info for 174 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 110i,17n,107p,1056b,543s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 110i,11n,107p,1056b,543s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/bera/fvsb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/bera/fvsr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/bera/fvsro8a.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1095.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on modelo.pdf (9 pages, 338365 bytes).
+Output written on modelo.pdf (10 pages, 203981 bytes).
 PDF statistics:
- 169 PDF objects out of 1000 (max. 8388607)
- 141 compressed objects within 2 object streams
- 34 named destinations out of 1000 (max. 500000)
- 46176 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 170 PDF objects out of 1000 (max. 8388607)
+ 142 compressed objects within 2 object streams
+ 35 named destinations out of 1000 (max. 500000)
+ 46171 words of extra memory for PDF output out of 51595 (max. 10000000)
 

@@ -1,12 +1,7 @@
 % ------------------------------------------------------------------------
 % ------------------------------------------------------------------------
-% abnTeX2: Modelo de Artigo Acadêmico em conformidade com
-% ABNT NBR 6022:2018: Informação e documentação - Artigo em publicação 
-% periódica científica - Apresentação
-% Atualizedo para as citações - (SILVA, 2023) para (Silva, 2023)  de acordo com a NBR 10520/2023 
+% Atualizado para as citações - (SILVA, 2023) para (Silva, 2023)  de acordo com a NBR 10520/2023 
 % ------------------------------------------------------------------------
-
-
 
 \documentclass[a4paper, portugues,11pt]{article}
 \usepackage[brazilian]{babel}
@@ -31,18 +26,21 @@
 \usepackage[pdftex]{graphicx}
 \usepackage[pdftex]{hyperref}
 \usepackage[pdftex]{color}
-\usepackage[pdftex]{hyperref}
 
 \usepackage[dvipsnames]{xcolor}
-%\usepackage{color}
+%\usepackage{color}				% Controle das cores
 
 \usepackage{pifont} %símbolos marcadores
+\usepackage{nomencl} % Lista de simbolos
 \usepackage[normalem]{ulem} %sublinhados
 %simbolos marcadores
 \usepackage{amssymb}
 \usepackage{indentfirst}
 \usepackage{setspace}
+\usepackage{graphicx}			% Inclusão de gráficos
+\usepackage{microtype} 			% para melhorias de justificação
 
+\usepackage{zref-totpages} %calcula o total de páginas
 
 \usepackage[
     bottom=2cm,
@@ -64,16 +62,12 @@
 
 %------------------------------------------------------------------------
 
-
-	
 % Seleciona o idioma do documento (conforme pacotes do babel)
 %\selectlanguage{english}
 
 % ---
 % PACOTES
 % ---
-
-
 
 % ---       
 % Pacotes fundamentais 
@@ -82,17 +76,9 @@
 %\usepackage{mathptmx} % Fonte times new romam no texto
 %\usepackage{ccfonts}
 
-\usepackage{nomencl} 			% Lista de simbolos
-\usepackage{color}				% Controle das cores
-\usepackage{graphicx}			% Inclusão de gráficos
-\usepackage{microtype} 			% para melhorias de justificação
-% ---
-		
-% ---
-% Pacotes adicionais, usados apenas no âmbito do Modelo Canônico do abnteX2
-% ---
-\usepackage{lipsum}				% para geração de dummy text
-% ---
+
+
+
 		
 % ---
 % Pacotes de citações
@@ -100,11 +86,6 @@
 
 \usepackage[alf]{abntex2cite}	% Citações padrão ABNT
 % ---
-
-
-
-
-
 
 
 % alterando o aspecto da cor azul
@@ -120,20 +101,16 @@
 \pagestyle{fancy} % sem definir esse comando, o cabeçalho personalizado não é exibido
 
 \fancyhead{} % define o cabeçalho personalizado
-\renewcommand{\headrulewidth}{0.1mm}
-\lhead{\includegraphics[angle=0, width=0.15\textwidth]{Imagens/logo-serpro.jpg}}
+\renewcommand{\headrulewidth}{0mm}
+\lhead{}
 \chead{}
-\rhead{\large \textbf{1º Prêmio Serpro de Inovação}}
+\rhead{}
 
 \fancyfoot{}
-\renewcommand{\footrulewidth}{0.1mm}
-\lfoot{\footnotesize SGAN Av.L-2 Norte Quadra 601 - Módulo G  \\ Asa Norte, Brasília - DF - CEP: 70830-900}
+\renewcommand{\footrulewidth}{0mm}
+\lfoot{}
 \cfoot{}
-\rfoot{\footnotesize
-{\sf \textbf{\color{gray}\large www.serpro.gov.br}} \\
-\vspace*{5mm}
-\thepage
-}
+\rfoot{\thepage}
 
 
 
@@ -167,69 +144,75 @@
  \end{figure}
 
  \begin{center}
-  {\huge \{Título do Trabalho\}}
-
+  {\huge Modelo em \LaTeX \ para o Prêmio SERPRO} \\
+  \vspace{30mm}
+  {\Large Weldson Queiroz de Lima} \\
+  \vspace{30mm}
+  {\Large Tema: Altruísmo acadêmico e corporativo} \\
+  {\Large \vfill Nº de páginas: \ztotpages} \\
 	%\textbf{\LARGE Modelo em \LaTeX para o Prêmio Serpro}
 \end{center}
 
 \restoregeometry % 
 \clearpage
-
-\pagenumbering{roman}
-
-\tableofcontents
-\clearpage
-
-\listoffigures
-\clearpage
-
-\listoftables 
-\clearpage
-
-\section*{Section A}
-
-\clearpage
 \pagenumbering{arabic}
+\section*{Folha de Rosto}
 
+\hspace*{-6.5mm} \underline{Título do Trabalho:} Modelo em \LaTeX \ para o Prêmio SERPRO \\ 
+\vspace{10mm}
 
+\hspace*{-6.5mm} \underline{Tema:} Altruísmo acadêmico e corporativo \\ 
+\vspace{10mm}
+
+\hspace*{-6.5mm} \underline{Autores:} Weldson Queiroz de Lima \\ 
+\vspace{10mm}
+
+\hspace*{-6.5mm} \underline{Curriculos:} Possui graduação em Tecnologia em Informática pelo Centro Federal de Educação Tecnológica do Rio Grande do Norte (CEFET-RN), especialização em Gestão Pública pela Universidade Federal do Rio Grande do Sul (UFRGS), MBA em Gestão Pública pela Escola Nacional de Administração Pública (ENAP) e mestrado em Engenharia Elétrica pela Universidade Federal do Rio Grande do Norte (UFRN). Atualmente é gestor de departamento de Inteligência, Estratégia e Qualidade dos Produtos e Serviços de Operação no Serviço Federal de Processamento de Dados (SERPRO). Em acumulação, é docente do Instituto Federal de Educação, Ciência e Tecnologia de Brasília, onde desenvolve atividades acadêmicas relacionadas a tecnologia e governo digital.  \\ 
+\vspace{10mm}
+
+\clearpage
+\section*{Resumo}
+\lipsum[1]
+
+\vspace{10mm}
+\hspace*{-6.5mm} \underline{Palavras-chaves:} Serpro; \LaTeX; Prêmio. \\ 
+
+\clearpage
+\listoffigures
+
+\clearpage
+\tableofcontents
+
+%\clearpage
+%\listoftables 
+
+\clearpage
 % Retira espaço extra obsoleto entre as frases.
 \frenchspacing 
 
 
-
-%\maketitle
-% ----------------------------------------------------------
-% ELEMENTOS TEXTUAIS
-% ----------------------------------------------------------
-
-% \textual
-
-
-% ----------------------------------------------------------
-% Introdução
-% ----------------------------------------------------------
-
 %\setcounter{section}{3}
-\section{Título do Pré-projeto de Pesquisa}
-\section{Tema do trabalho de conclusão de curso}
+\section{Introdução}
+  \lipsum[1] \\
 
-(O que vai ser pesquisado)
-Explicar brevemente o assunto que deseja desenvolver.
-Elaborar uma apresentação sucinta do assunto que será abordado na pesquisa.
-Apresentar genericamente o tema, anunciar a ideia básica do que se deseja pesquisar, situar o tema dentro do contexto geral do seu
-campo de atuação profissional, descrever as movações que levaram à escolha do tema e indicar o objeto de análise, jusficando a originalidade
-da abordagem.
+\section{Referencial Teórico}
 
-Minha pesquisa no mestrado na UFRN e na RNP foi focada em protocolos de rede e roteamento IP Multicast \cite{weldsonufrn}. Nos anos seguintes os resultados da pesquisa foram aplicados em atividades de ensino, docência e publicados em periódicos internacionais relevantes \cite{weldson2004} \cite{DBLP:conf/policy/FrancoLSPATGBJF06} \cite{DBLP:conf/noms/LimaAVATG06}. A partir de 2005 meus estudos passaram a assumir um caráter menos acadêmico e mais profissional, realizei inúmeros treinamentos e capacitações técnicas em tecnologia e desenvolvi pesquisa aplicada a grandes redes públicas. Em função da pesquisa aplicada recebi diversas premiações internas no Serviço Federal de Processamento de Dados (SERPRO), onde passei a trabalhar desde 2005.
+\lipsum[2] 
 
-\section{Problema}
+\begin{figure}[!htbp]
+  \begin{center}
+    \includegraphics[angle=0, width=0.6\textwidth]{Imagens/h_l_mencken.jpg}
+  \caption{Wicked Problems} \label{fig:rg}
+  \end{center}
+ \end{figure}
 
-(Qual a pergunta a ser respondida por esta pesquisa?)
-Informar o problema central da pesquisa.
-Pode ser apresentado de forma destacada no texto, em um tópico específico, ou estar inserido no corpo do texto, desde que seja de
-fácil idenficação ao leitor/examinador.
-Colocar o problema de pesquisa em formato de pergunta, quesonando uma dada realidade.
-Dar preferência às questões prácas que envolvem a área de atuação profissional do candidato. Figura \ref{fig:soap} apresenta o esqueleto de uma mensagem SOAP. O \texttt{soap:Envelope} é o elemento raiz do documento XML.
+
+Minha pesquisa no mestrado na UFRN e na RNP foi focada em protocolos de rede e roteamento IP Multicast \cite{weldsonufrn}. Nos anos seguintes os resultados da pesquisa foram aplicados em atividades de ensino, docência e publicados em periódicos internacionais relevantes \cite{weldson2004} \cite{DBLP:conf/policy/FrancoLSPATGBJF06} \cite{DBLP:conf/noms/LimaAVATG06}. 
+
+\section{Metodologia}
+
+\lipsum[2]
+Dar preferência às questões práticas que envolvem a área de atuação profissional do candidato. Figura \ref{fig:soap} apresenta o esqueleto de uma mensagem SOAP. O \texttt{soap:Envelope} é o elemento raiz do documento XML.
 
 \begin{figure}[!htbp]
  \begin{center}
@@ -254,11 +237,9 @@ Dar preferência às questões prácas que envolvem a área de atuação profiss
  \end{center}
 \end{figure}
 
-\section{Justificativa do Estudo}
+\section{Lacuna de conhecimento aplicado}
 
-(Qual a importância de se pesquisar este tema?)
-Apresentar, de forma clara e objeva, as razões de ordem teórica ou práca que jusficam a realização da pesquisa, enfazando o
-caráter de originalidade do estudo.
+\lipsum[2]
 
 \begin{itemize}
   \item[\ding{51}] Code 51
@@ -269,10 +250,7 @@ caráter de originalidade do estudo.
   \item default
 \end{itemize}
 
-Mostrar a relevância do problema a ser invesgado e as contribuições que a pesquisa pode trazer, no sendo de proporcionar
-respostas aos problemas propostos ou a possibilidade de sugerir modificações no âmbito da realidade retratada pelo tema.
-Indicar a importância da pesquisa sobre a temáca escolhida para a instuição de trabalho do candidato.
-
+\lipsum[1] 
 
 \begin{enumerate}
   \item One
@@ -280,14 +258,9 @@ Indicar a importância da pesquisa sobre a temáca escolhida para a instuição 
   \item Three
 \end{enumerate}
 
-\section{Metodologia}
+\section{Inferência de resultado em escala}
 
-(Como a pesquisa será realizada?)
-Mostrar como será desenvolvida a pesquisa para agir os objevos propostos.
-Deve descrever sucintamente o po de pesquisa a ser abordada (bibliográfica, documental, exploratória, de campo, estudo de caso,
-etc.).
-Delimitar o tempo e o espaço que serão empregados na pesquisa, bem como a fonte dos dados que serão coletados e os
-instrumentos escolhidos para a coleta (entrevistas, formulários, quesonários, legislação, banco de dados, etc.).
+\lipsum[2] 
 
 
 \begin{table}[htb]
@@ -316,30 +289,11 @@ instrumentos escolhidos para a coleta (entrevistas, formulários, quesonários, 
   \end{table}
 
 
-\section{Objetivos e resultados Esperados} \label{sec:obj}
-(O que se quer idenficar na pesquisa?)
-Descrever o objevo principal da pesquisa que irá desenvolver.
-Expressar em uma sentença curta e de fácil entendimento o que o pesquisador pretende angir com sua invesgação. (ex. um
-diagnósco, uma avaliação de políca ou Programa de Governo, uma proposta de intervenção na realidade).
-Evidenciar a contribuição para o campo profissional do candidato.
-
-Com  a conclusão de meu MBA na ENAP em 2024.
-
-\begin{multicols}{2}
-  \lipsum[10]
-\end{multicols}
+\section{Conclusão} \label{sec:obj}
+  \lipsum[10] 
 
 
-\begin{figure}[!htbp]
-  \begin{center}
-    \includegraphics[angle=0, width=0.7\textwidth]{Imagens/h_l_mencken.jpg}
-  \caption{{\bf Prejudices: Second Series} - Página 158, de Henry Louis Mencken - Publicado por Alfred A. Knopf, 1920 - 254 páginas} \label{fig:rg}
-  \end{center}
- \end{figure}
-
-\lipsum[3]
-
-
+\clearpage
 % ----------------------------------------------------------
 % Referências bibliográficas
 % ----------------------------------------------------------
