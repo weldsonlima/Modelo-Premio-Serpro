@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.2.1)  17 FEB 2025 23:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.2.1)  20 FEB 2025 21:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -465,24 +465,24 @@ LaTeX Warning: Unused global option(s):
 (./modelo.aux)
 \openout1 = `modelo.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count302
@@ -502,24 +502,24 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 135.
+Package hyperref Info: Link coloring OFF on input line 132.
  (./modelo.out) (./modelo.out)
 \@outlinefile=\write3
 \openout3 = `modelo.out'.
 
-LaTeX Info: Redefining \microtypecontext on input line 135.
-Package microtype Info: Applying patch `item' on input line 135.
-Package microtype Info: Applying patch `toc' on input line 135.
-Package microtype Info: Applying patch `eqnum' on input line 135.
-Package microtype Info: Applying patch `footnote' on input line 135.
-Package microtype Info: Applying patch `verbatim' on input line 135.
+LaTeX Info: Redefining \microtypecontext on input line 132.
+Package microtype Info: Applying patch `item' on input line 132.
+Package microtype Info: Applying patch `toc' on input line 132.
+Package microtype Info: Applying patch `eqnum' on input line 132.
+Package microtype Info: Applying patch `footnote' on input line 132.
+Package microtype Info: Applying patch `verbatim' on input line 132.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 135.
+LaTeX Info: Redefining \showhyphens on input line 132.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -597,33 +597,33 @@ Package microtype Info: Loading generic protrusion settings for font family
 <Imagens/capa-ps.jpg, id=44, 880.28876pt x 556.0775pt>
 File: Imagens/capa-ps.jpg Graphic file (type jpg)
 <use Imagens/capa-ps.jpg>
-Package pdftex.def Info: Imagens/capa-ps.jpg  used on input line 142.
+Package pdftex.def Info: Imagens/capa-ps.jpg  used on input line 139.
 (pdftex.def)             Requested size: 880.2866pt x 556.07614pt.
 LaTeX Font Info:    Font shape `T1/fvs/m/n' will be
-(Font)              scaled to size 18.66588pt on input line 147.
+(Font)              scaled to size 18.66588pt on input line 144.
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 147.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 144.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 147.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 144.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `T1/fvs/m/n' will be
-(Font)              scaled to size 12.9599pt on input line 147.
-LaTeX Font Info:    Trying to load font information for TS1+fvs on input line 152.
+(Font)              scaled to size 12.9599pt on input line 144.
+LaTeX Font Info:    Trying to load font information for TS1+fvs on input line 149.
  (/usr/share/texlive/texmf-dist/tex/latex/bera/ts1fvs.fd
 File: ts1fvs.fd 2004/09/07 scalable font definitions for TS1/fvs.
 )
 LaTeX Font Info:    Font shape `TS1/fvs/m/n' will be
-(Font)              scaled to size 12.9599pt on input line 152.
+(Font)              scaled to size 12.9599pt on input line 149.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `fvs' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
@@ -633,19 +633,19 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} <./Imagens/capa-ps.jpg>]
 LaTeX Font Info:    Font shape `T1/fvs/b/n' will be
-(Font)              scaled to size 12.9599pt on input line 159.
+(Font)              scaled to size 12.9599pt on input line 156.
 LaTeX Font Info:    Font shape `T1/fvs/m/n' will be
-(Font)              scaled to size 7.19995pt on input line 161.
+(Font)              scaled to size 7.19995pt on input line 158.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.173 \clearpage
+l.170 \clearpage
                  [1
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 178--179
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
 
  []
 
@@ -667,16 +667,16 @@ LaTeX Font Info:    Font shape `T1/fvs/b/n' will be
  [4
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 196--197
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
 
  []
 
 <Imagens/h_l_mencken.jpg, id=85, 602.25pt x 316.18124pt>
 File: Imagens/h_l_mencken.jpg Graphic file (type jpg)
 <use Imagens/h_l_mencken.jpg>
-Package pdftex.def Info: Imagens/h_l_mencken.jpg  used on input line 204.
+Package pdftex.def Info: Imagens/h_l_mencken.jpg  used on input line 201.
 (pdftex.def)             Requested size: 602.24852pt x 316.18047pt.
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 215.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 212.
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
@@ -687,12 +687,12 @@ Package microtype Info: Loading generic protrusion settings for font family
  [5
 
  <./Imagens/h_l_mencken.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 232--233
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
 
  []
 
 LaTeX Font Info:    Font shape `TS1/fvs/m/n' will be
-(Font)              scaled to size 9.85492pt on input line 250.
+(Font)              scaled to size 9.85492pt on input line 247.
 [6{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}] [7] [8] (./modelo.bbl
 LaTeX Font Info:    Font shape `T1/fvs/m/it' will be
 (Font)              scaled to size 9.85492pt on input line 10.
@@ -715,10 +715,10 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  110i,11n,107p,1056b,543s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/bera/fvsb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/bera/fvsr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/bera/fvsro8a.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1095.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on modelo.pdf (10 pages, 203981 bytes).
+Output written on modelo.pdf (10 pages, 203769 bytes).
 PDF statistics:
- 170 PDF objects out of 1000 (max. 8388607)
- 142 compressed objects within 2 object streams
+ 171 PDF objects out of 1000 (max. 8388607)
+ 143 compressed objects within 2 object streams
  35 named destinations out of 1000 (max. 500000)
  46171 words of extra memory for PDF output out of 51595 (max. 10000000)
 
