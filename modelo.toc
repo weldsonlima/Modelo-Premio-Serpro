@@ -8,4 +8,4 @@
 \contentsline {section}{\numberline {4}Lacuna de conhecimento aplicado}{6}{section.4}%
 \contentsline {section}{\numberline {5}Inferência de resultado em escala}{7}{section.5}%
 \contentsline {section}{\numberline {6}Conclusão}{7}{section.6}%
-\contentsline {section}{Refer\^encias}{9}{section*.9}%
+\contentsline {section}{Refer\^encias}{10}{section*.9}%
