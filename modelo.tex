@@ -291,60 +291,81 @@ Dar preferência às questões práticas que envolvem a área de atuação profi
 
 
 \section{Conclusão} \label{sec:obj}
-  \lipsum[1-2]
+  \lipsum[1-1]
   \vspace*{10mm}
   \begin{figure}[!ht]
-  \begin{tikzpicture}[scale=0.5, very thick,->]
+  \begin{tikzpicture}[scale=0.8, very thick,->]
 
+    \draw [color=darkgray, fill=lightgray!50, rounded corners, dashed ] (0.5,2)  node [yshift=-0.7cm, xshift=8.3cm]  {\textbf{\Large Estaleiro}} rectangle (21.5,-0.5);
 
-    \coordinate (A) at (0,-5)
-    \coordinate (B) at (0,0)
-    \coordinate (C) at (5,0)
-    \coordinate (D) at (8,-5)
-
-    \draw[opacity=.1] (-1,1) grid (9,-6);
-
-    %círculo centro (0,0) na origem e raio (1) unitário
-    \draw (A) -- (B) -- (C) -- (D) -- cycle;
-
-    \draw[fill=blue] (A) node [anchor= north east] {A} circle (1mm); 
-    \draw[fill=cyan] (B) node [anchor= south east] {B} circle (1mm);
-    \draw[fill=yellow] (C) node [anchor= south west] {C} circle (1mm);
-    \draw[fill=orange] (D) node [anchor= north west] {D} node [anchor= south east] {\tiny 60º} circle (1mm); 
-
-    %também podemos usar unidades de medida
-     %\draw (0,0) circle (8mm);
-    %retângulo
-    \draw [black] (0,-4) rectangle (1,-5);
-    \draw [fill=black] (0.5,-4.5) circle (0.4mm);
-    %arco
-    %\draw[--,red] (1,0) arc (90:180:1);
-    \draw[--,black] (7,-5) arc (180:120:1);
-    %\draw[--,red] (0,-4) arc (180:270:1);
-
-    \draw [color=olive, fill=green!10, rounded corners, line width=1mm] (11.5,1) node [anchor= north west] {\textbf{\small Nuvem de governo}}  rectangle (19,-7);
-    \draw [color=purple, fill=red!10, rounded corners, dashed] (12,-1) node [anchor= north west] {\small \hspace{10mm} AWS}  rectangle (18.5,-2.5);
-    \draw [color=teal, fill=lime!10, rounded corners, dashed] (12,-3) node [anchor= north west] {\small \hspace{8mm} Google}  rectangle (18.5,-4.5);
-    \draw [color=darkgray, fill=lightgray!10, rounded corners, dashed] (12,-5) node [anchor= north west] {\small \hspace{9mm} Oracle}  rectangle (18.5,-6.5);
+    \draw [color=olive, fill=green!10, rounded corners, line width=1mm] (1.5,1) node [yshift=-0.7cm, xshift=3cm] {\textbf{\small Nuvem de governo}}  rectangle (9,-7);
+    \draw [color=purple, fill=red!10] (2,-1) rectangle node  {\small AWS}  (8.5,-2.5);
+    %\node at (2,-1) {texto simples};
+    \draw [color=teal, fill=lime!10] (2,-3) rectangle node {\small Google}  (8.5,-4.5);
+    \draw [color=darkgray, fill=lightgray!10] (2,-5) rectangle node {\small  Oracle} (8.5,-6.5);
     
-    \draw [line width=1mm, color=blue](19,-3) node [anchor=south west] {Transbordo} -- (23.9,-3);
+    \draw [line width=1mm, color=blue](9,-3) node [anchor=south west] {Transbordo} -- (12.9,-3); 
 
-    \draw [color=brown, fill=yellow!10, rounded corners, line width=1mm] (24,1) node [anchor= north west] {\textbf{\small \hspace{6mm} Multicloud}}  rectangle (31.5,-7);
-    \draw [color=violet, fill=pink!10, rounded corners] (24.5,-1) node [anchor= north west] {\small \hspace{6mm} Openstack}  rectangle (31,-3.5);
-    \draw [color=blue, fill=cyan!10, rounded corners] (24.5,-4) node [anchor= north west] {\small \hspace{7mm} VMWare}  rectangle (31,-6.5);
+    \draw [color=brown, fill=yellow!10, rounded corners, line width=1mm] (13,1) node [yshift=-0.7cm, xshift=2.5cm] {\textbf{\small \hspace{6mm} Multicloud}}  rectangle (20.5,-7);
+    \draw [color=violet, fill=pink!10, rounded corners] (13.5,-1) rectangle node  {\small  Openstack}  (20,-3.5);
+    \draw [color=blue, fill=cyan!10, rounded corners] (13.5,-4) rectangle node  {\small  VMWare}  (20,-6.5);
   
 
+    
     \end{tikzpicture}
     \caption{\label{flu.met} Desenhos com tikz.}
     %curvas
   \end{figure}
     \vspace*{10mm}
+    \lipsum[1-1] 
+    
+    \begin{figure}[!htbp]
+      \begin{center}
+      \begin{tabular}[htb]{|c|}
+      \hline
+      \begin{minipage}[b]{0.8\linewidth}
+        
+      \begin{tikzpicture}[scale=0.5, very thick,->]
+    
+    
+        \coordinate (A) at (0,-5)
+        \coordinate (B) at (0,0)
+        \coordinate (C) at (5,0)
+        \coordinate (D) at (8,-5)
+    
+        \draw[opacity=.1] (-1,1) grid (9,-6);
+    
+        %círculo centro (0,0) na origem e raio (1) unitário
+        \draw (A) -- (B) -- (C) -- (D) -- cycle;
+    
+        \draw[fill=blue] (A) node [anchor= north east] {A} circle (1mm); 
+        \draw[fill=cyan] (B) node [anchor= south east] {B} circle (1mm);
+        \draw[fill=yellow] (C) node [anchor= south west] {C} circle (1mm);
+        \draw[fill=orange] (D) node [anchor= north west] {D} node [anchor= south east] {\tiny 60º} circle (1mm); 
+    
+        %também podemos usar unidades de medida
+         %\draw (0,0) circle (8mm);
+        %retângulo
+        \draw [black] (0,-4) rectangle (1,-5);
+        \draw [fill=black] (0.5,-4.5) circle (0.4mm);
+        %arco
+        %\draw[--,red] (1,0) arc (90:180:1);
+        \draw[--,black] (7,-5) arc (180:120:1);
+        %\draw[--,red] (0,-4) arc (180:270:1);
+    
+        \end{tikzpicture}
+        %curvas
+      \end{minipage}
+      \\ \hline
+      \end{tabular}
+      \caption{Exemplo de tkiz \label{fig:soap}}
+      \end{center}
+     \end{figure}
 
-    \lipsum[1-2] 
+
+    \lipsum[1-1] 
 
     \begin{figure}[!ht]
-
-      \centering
       
       % Define block styles
       \tikzstyle{block} = [rectangle, draw, fill=white, 

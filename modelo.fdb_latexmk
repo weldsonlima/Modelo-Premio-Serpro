@@ -1,16 +1,16 @@
 # Fdb version 4
-["bibtex modelo"] 0 "modelo.aux" "modelo.bbl" "modelo" 0 -1
+["bibtex modelo"] 1740269640.46919 "modelo.aux" "modelo.bbl" "modelo" 1740269640.65066 2
   "./abntex2-references.bib" 1704783762 3279 1a6671b1b07ac654ea9d1cf0f91880d6 ""
   "./tex/abntex2-alf.bst" 1704783762 60082 1c999a6bd28f2c83247b075aaf0482a6 ""
   "/usr/share/texlive/texmf-dist/bibtex/bib/abntex2/abntex2-options.bib" 1357081713 5396 4eb260dac60f150ae608d45252853090 ""
-  "modelo.aux" 1740195254.80727 2595 e96107785e5be107dc5dbd4747c221cb "pdflatex"
+  "modelo.aux" 1740269640.4642 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   (generated)
   "modelo.bbl"
   "modelo.blg"
   (rewritten before read)
-["pdflatex"] 1740195253.38654 "/home/weldson/Documentos/GitHub/Modelo-Premio-Serpro/modelo.tex" "modelo.pdf" "modelo" 1740195255.43447 2
+["pdflatex"] 1740269638.27957 "/home/weldson/Documentos/GitHub/Modelo-Premio-Serpro/modelo.tex" "modelo.pdf" "modelo" 1740269640.3058 2
   "/etc/texmf/web2c/texmf.cnf" 1738428690.85872 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/weldson/Documentos/GitHub/Modelo-Premio-Serpro/modelo.tex" 1740195250.97931 15084 3d9cf608a2568937f83c552ee5bb2348 ""
+  "/home/weldson/Documentos/GitHub/Modelo-Premio-Serpro/modelo.tex" 1740269638.04524 15557 afd7dac72f805067b726ce18173fb1a1 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm" 1136768653 1408 5937f58aa508ea2cea4901c07d10f5fe ""
@@ -238,12 +238,12 @@
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1738428839 8213238 e66a22245d4cca5543e9ba3b2ed30833 ""
   "Imagens/capa-ps.jpg" 1739035021.97607 75086 76cffae059af105406a3a6e2d7ea8596 ""
   "Imagens/h_l_mencken.jpg" 1739329190.85402 28776 cf886c604ac513c093a616ad37cba549 ""
-  "modelo.aux" 1740195254.80727 2595 e96107785e5be107dc5dbd4747c221cb "pdflatex"
-  "modelo.bbl" 1740195247.16935 0 d41d8cd98f00b204e9800998ecf8427e "bibtex modelo"
-  "modelo.lof" 1740195254.80927 400 10da40fb077d967a5e7b4ae00b108142 "pdflatex"
-  "modelo.out" 1740195254.80827 1186 d6d750bec5d809f5b1cd20a2142de8f7 "pdflatex"
-  "modelo.tex" 1740195250.97931 15084 3d9cf608a2568937f83c552ee5bb2348 ""
-  "modelo.toc" 1740195254.80927 648 fc1782fc74a38626ba61a87f1f9aa334 "pdflatex"
+  "modelo.aux" 1740269640.4642 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "modelo.bbl" 1740269640.6472 0 d41d8cd98f00b204e9800998ecf8427e "bibtex modelo"
+  "modelo.lof" 0 -1 0 "pdflatex"
+  "modelo.out" 0 -1 0 "pdflatex"
+  "modelo.tex" 1740269638.04524 15557 afd7dac72f805067b726ce18173fb1a1 ""
+  "modelo.toc" 0 -1 0 "pdflatex"
   (generated)
   "modelo.aux"
   "modelo.lof"
